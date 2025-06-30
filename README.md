@@ -60,9 +60,8 @@ When to use Avro (especially in streaming pipelines with Kafka)
 Why CSV doesn’t scale beyond toy examples
 
 📂 Project Structure
-lua
-Copy
-Edit
+
+
 file-format-showdown/
 ├── data/
 │   ├── sample.csv
